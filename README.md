@@ -35,5 +35,3 @@ The model can be integrated with:
   - Recall
 
 ---
-
-## 📂 Project Structure
